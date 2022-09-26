@@ -1,0 +1,8 @@
+radius=int(input("enter the radius"))
+area=2*3.14*radius
+print(area)
+
+
+OUTPUT
+enter the radius10
+62.8
